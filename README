@@ -1,0 +1,1 @@
+This is a basic implementation of Frostbite RCON Protocol using twisted python. It's pretty raw as it's coming directly out of the application it was written for, and likely needs some cleaning up. But it's a good starting point.
